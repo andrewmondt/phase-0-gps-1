@@ -1,10 +1,10 @@
   touch awesome_page.md
   	--create a new file
- 
+
   git add .
   	---tracks file to staging area
 
-  515  git commit 
+  515  git commit
   	---saves changes to local repository
 
   git push origin master
@@ -18,3 +18,6 @@
 
   history 30 >>readme.md
    --- appending our command history to readme.md
+
+
+   CHANGES!!!!
